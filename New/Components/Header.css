@@ -1,0 +1,50 @@
+.first-dev{
+    display: flex;
+    align-items: center;
+}
+
+.first-dev img{
+    width: 30px;
+    height:30px;
+}
+.second-dev{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.main-dev{
+    padding: 20px;
+    background-color: grey;
+background-image: linear-gradient(270deg, #B43A77, #FD1D1D, #FF5E00);    color: white;
+    display: flex;
+    justify-content: space-between;
+    gap: 30;
+}
+
+.list{
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    gap: 30px;
+    font-size: 20px;
+}
+
+.last{
+border: 2px solid white;
+border-radius: 10px;
+padding: 5px;
+list-style-type: none;
+border-radius: 10px;
+max-width: 150px;
+text-align: center;
+padding: 10px;
+}
+
+.list-hero{
+    list-style-position: inside;
+}
+
+.header-image{
+    height: 400px;
+}

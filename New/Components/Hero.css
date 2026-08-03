@@ -1,0 +1,22 @@
+.last{
+border: 2px solid white;
+}
+
+.main-dev{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.right-dev{
+    display: flex;
+    align-items: center
+}
+
+.bold-text{
+    font-size: large;
+}
+.hero-p{
+    font-size: 20px;
+}
